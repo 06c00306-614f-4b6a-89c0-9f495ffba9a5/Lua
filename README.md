@@ -1,3 +1,5 @@
+[![YouTube video player](https://img.youtube.com/vi/iMacxZQMPXs/0.jpg)](https://www.youtube.com/watch?v=iMacxZQMPXs)
+
 <img src="https://www.lua.org/images/lua-logo.gif" alt="Lua Logo" width="128" height="128" align="right" />
 
 ## Table of Contents
