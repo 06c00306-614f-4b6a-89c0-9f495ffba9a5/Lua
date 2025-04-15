@@ -1,5 +1,3 @@
-# Lua Programming Language: Comprehensive Reference Guide
-
 <img src="https://www.lua.org/images/lua-logo.gif" alt="Lua Logo" width="128" height="128" align="right" />
 
 ## Table of Contents
